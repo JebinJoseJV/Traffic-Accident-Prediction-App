@@ -37,11 +37,10 @@ This project is a **Machine Learning-based Traffic Accident Prediction App** tha
 
 📦 Traffic-Accident-Prediction  
 
-  ├── 📜 README.md  # Project documentation  
-  ├── 📜 app.py      # Streamlit frontend for prediction  
-  ├── 📜 model_training.py  # Model training and preprocessing  
-  ├── 📜 requirements.txt  # Dependencies for the project
-  ├── 📦 models/        # Folder for trained models  
+  ├── 📜 README.md  # Project documentation    
+  ├── 📜 app.py      # Streamlit frontend for prediction    
+  ├── 📜 model_training.py  # Model training and preprocessing    
+  ├── 📜 requirements.txt  # Dependencies for the project  
         ├── best_model.pkl  # Best trained model (used in app)  
         ├── label_encoders.pkl  # Encoders for categorical features  
         ├── feature_names.pkl  # List of feature names  
