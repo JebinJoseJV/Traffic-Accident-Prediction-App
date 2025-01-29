@@ -50,12 +50,12 @@ Edit
 git clone https://github.com/your-username/Traffic-Accident-Prediction.git
 cd Traffic-Accident-Prediction
 ```
-###2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 ```sh
 
 pip install -r requirements.txt
 ```
-###3️⃣ Run the App Locally
+### 3️⃣ Run the App Locally
 ```sh
 
 streamlit run app.py
@@ -63,10 +63,10 @@ streamlit run app.py
 🏗️ Model Training (Optional)
 If you want to retrain the model, run:
 
-sh
-Copy
-Edit
+```sh
+
 python model_training.py
+```
 This will train models, save the best one, and store the encoders and feature names.
 
 📌 Technologies Used
