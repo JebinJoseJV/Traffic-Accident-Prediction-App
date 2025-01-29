@@ -69,16 +69,17 @@ python model_training.py
 ```
 This will train models, save the best one, and store the encoders and feature names.
 
-📌 Technologies Used
+### 📌 Technologies Used
 Python 🐍
 Streamlit (Web App)
 Scikit-Learn (Machine Learning)
 Pandas & NumPy (Data Processing)
 Pickle (Model Serialization)
-✨ Future Improvements
+
+### ✨ Future Improvements
 🚀 Add more features to improve accuracy
 🚀 Implement additional ML models like XGBoost
 🚀 Enhance UI with better visualization
 
-📝 License
+### 📝 License
 This project is open-source and available under the MIT License.
