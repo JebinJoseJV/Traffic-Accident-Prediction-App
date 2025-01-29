@@ -67,7 +67,7 @@ streamlit run app.py
 ```
 ---
 
-🏗️ Model Training (Optional)  
+## 🏗️ Model Training (Optional)  
 If you want to retrain the model, run:
 
 ```sh
@@ -78,7 +78,7 @@ This will train models, save the best one, and store the encoders and feature na
 
 ---
 
-### 📌 Technologies Used
+## 📌 Technologies Used
 Python 🐍  
 Streamlit (Web App)  
 Scikit-Learn (Machine Learning)  
@@ -87,7 +87,7 @@ Pickle (Model Serialization)
 
 ---
 
-### ✨ Future Improvements
+## ✨ Future Improvements
 🚀 Add more features to improve accuracy  
 🚀 Implement additional ML models like XGBoost  
 🚀 Enhance UI with better visualization  
@@ -95,7 +95,7 @@ Pickle (Model Serialization)
 ---
 
 
-### 📝 License
+## 📝 License
 This project is open-source and available under the MIT License.
 
 ---
