@@ -35,16 +35,16 @@ This project is a **Machine Learning-based Traffic Accident Prediction App** tha
 
 ## 📂 Project Structure
 
-📦 Traffic-Accident-Prediction
+📦 Traffic-Accident-Prediction  
 
-  ├── 📜 README.md  # Project documentation
-  ├── 📜 app.py      # Streamlit frontend for prediction
-  ├── 📜 model_training.py  # Model training and preprocessing
+  ├── 📜 README.md  # Project documentation  
+  ├── 📜 app.py      # Streamlit frontend for prediction  
+  ├── 📜 model_training.py  # Model training and preprocessing  
   ├── 📜 requirements.txt  # Dependencies for the project
-  ├── 📦 models/        # Folder for trained models
-        ├── best_model.pkl  # Best trained model (used in app)
-        ├── label_encoders.pkl  # Encoders for categorical features
-        ├── feature_names.pkl  # List of feature names
+  ├── 📦 models/        # Folder for trained models  
+        ├── best_model.pkl  # Best trained model (used in app)  
+        ├── label_encoders.pkl  # Encoders for categorical features  
+        ├── feature_names.pkl  # List of feature names  
 
 ---
 
@@ -97,3 +97,5 @@ Pickle (Model Serialization)
 
 ### 📝 License
 This project is open-source and available under the MIT License.
+
+---
