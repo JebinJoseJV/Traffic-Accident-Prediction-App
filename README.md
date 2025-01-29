@@ -49,16 +49,17 @@ Edit
 ```sh
 git clone https://github.com/your-username/Traffic-Accident-Prediction.git
 cd Traffic-Accident-Prediction
-2️⃣ Install Dependencies
-sh
-Copy
-Edit
+```
+###2️⃣ Install Dependencies
+```sh
+
 pip install -r requirements.txt
-3️⃣ Run the App Locally
-sh
-Copy
-Edit
+```
+###3️⃣ Run the App Locally
+```sh
+
 streamlit run app.py
+```
 🏗️ Model Training (Optional)
 If you want to retrain the model, run:
 
